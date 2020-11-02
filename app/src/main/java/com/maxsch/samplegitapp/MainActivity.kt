@@ -25,4 +25,6 @@ class MainActivity : AppCompatActivity() {
     fun sum() {
         println(2 + 5)
     }
+
+	fun returnSomeString() = ""
 }
