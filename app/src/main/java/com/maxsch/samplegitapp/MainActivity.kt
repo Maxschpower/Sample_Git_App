@@ -29,4 +29,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun someString() = ""
+
+	fun printSomeNum() {
+		println(1)
+	}
 }
