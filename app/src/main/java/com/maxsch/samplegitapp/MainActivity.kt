@@ -32,5 +32,7 @@ class MainActivity : AppCompatActivity() {
 
 	fun printSomeNum() {
 		println(1)
+
+		returnSomeString()
 	}
 }
