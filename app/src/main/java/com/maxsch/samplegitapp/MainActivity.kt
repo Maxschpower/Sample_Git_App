@@ -23,6 +23,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun sum() {
-        println(2 + 2)
+        println(2 + 5)
     }
 }
