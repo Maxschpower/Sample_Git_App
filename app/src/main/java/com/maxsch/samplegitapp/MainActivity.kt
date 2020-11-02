@@ -13,4 +13,8 @@ class MainActivity : AppCompatActivity() {
 	fun someSeriousFunction() {
 		println("mm such serious")
 	}
+
+	fun myFeatureFun() {
+
+	}
 }
