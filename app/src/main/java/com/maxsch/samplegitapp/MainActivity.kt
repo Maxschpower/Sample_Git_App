@@ -17,4 +17,8 @@ class MainActivity : AppCompatActivity() {
 	fun myFeatureFun() {
 
 	}
+
+	fun asdas() {
+
+	}
 }
